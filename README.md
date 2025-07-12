@@ -3,25 +3,27 @@
 ![Landing Page](https://user-images.githubusercontent.com/43859895/141092846-905eae39-0169-4fd7-911f-9ff32c48b7e8.png)
 
 A basic LAMP stack environment built using Docker Compose. It consists of the following:
+ - (L)inux (Ubuntu)
+ - (A)pache2 Web Server
+ - (M) MySQL or MariaDB
+ - (P)HP
 
-- PHP
-- Apache
-- MySQL
-- phpMyAdmin
-- Redis
+Along with the additional tools:
+ - phpMyAdmin
+ - Redis
 
 As of now, we have several different PHP versions. Use appropriate php version as needed:
-
-- 5.4.x
-- 5.6.x
-- 7.1.x
-- 7.2.x
-- 7.3.x
-- 7.4.x
-- 8.0.x
-- 8.1.x
-- 8.2.x
-- 8.3.x
+ - 5.4.x
+ - 5.6.x
+ - 7.1.x
+ - 7.2.x
+ - 7.3.x
+ - 7.4.x
+ - 8.0.x
+ - 8.1.x
+ - 8.2.x
+ - 8.3.x
+ - 8.4.x
 
 ## Installation
 
